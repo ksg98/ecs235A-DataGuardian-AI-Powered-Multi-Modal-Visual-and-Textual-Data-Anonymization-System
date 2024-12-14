@@ -16,6 +16,19 @@ DataGuardian is a real-time privacy protection system that utilizes OpenAI's Vis
 - Live performance metrics
 - User-friendly Gradio interface
 
+## Modular Files and Main Notebook
+The project is structured into modular Jupyter Notebooks for deeper understanding and functionality.  
+
+### Modular Files:
+- **Step1_Installation_and_Setup.ipynb**: Covers installation and setup of dependencies.
+- **Step2_Utility_Functions_and_Configurations.ipynb**: Defines utility functions and system configurations.
+- **Step3_NLP_and_Entity_Recognizers_and_Custom_Analyzers.ipynb**: Explains the NLP engine, entity recognizers, and custom analyzers.
+- **Step4_AI_Model_Integration.ipynb**: Integrates AI models like OpenAI Vision API with the system.
+- **Step5_Gradio_Interface_and_Application_Launch.ipynb**: Builds the Gradio interface and launches the application.
+
+### Main Notebook:
+- **Realtime_Visual_data_anonymisation.ipynb**: Combines all steps into a unified, runnable notebook. Follow the instructions in the **Quick Start** section to execute.
+
 ## System Requirements
 - OpenAI API key
 - Web browser with camera access
